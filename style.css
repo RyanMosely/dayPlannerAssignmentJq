@@ -130,17 +130,17 @@ textarea{
 }
 
 
-#cols {
+.cols {
   padding: 0px;
 }
 
-#cardBod {
+.cardBod {
   height: 77px;
 }
 
 
 
-#inputAndSubmit {
+.inputAndSubmit {
   height: 79px;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
@@ -205,16 +205,5 @@ input {
 }
 
 
-/*
-#leftCol {
-  border-right: 1px solid rgba(0,0,0,.125);
-  border-top: 1px solid rgba(0,0,0,.125);
-  border-bottom: 1px solid rgba(0,0,0,.125);
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-  border-bottom-color: rgba(0, 0, 0, 0.125);
-  border-left: hidden;
-  border-radius: 0rem;
-}
 
 
