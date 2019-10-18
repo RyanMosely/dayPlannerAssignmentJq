@@ -5,7 +5,7 @@
 
 ## Installation
 
-To access this page, enter this URL into your address bar and follow the instructions provided:
+To access this page, enter this URL into your address bar and follow the instructions provided below:
 
 https://ryanmosely.github.io/dayPlannerAssignmentJq/
 
