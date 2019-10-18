@@ -18,23 +18,23 @@ The purpose of this webpage is to provide a simple work day planner for the user
  
 - Given that the user's work hours represent standard business hours (9am to 5pm):
 
-* The user is provided with nine rows, each row representing a work hour during the day
-(I.E: The first row is representative of 9am, the next for 10am, etc.).
+        * The user is provided with nine rows, each row representing a work hour during the day
+        (I.E: The first row is representative of 9am, the next for 10am, etc.).
 
-* For each row, each hour is provided with an input field to hold text based information.
-As time passes through out the work day, each input field is color coded for when time
-has passed each represented hour:
+        * For each row, each hour is provided with an input field to hold text based information.
+        As time passes through out the work day, each input field is color coded for when time
+        has passed each represented hour:
 
-- If it is before the time representative of the row, the input fields background color is green.
+                - If it is before the time representative of the row, the input fields background color is green.
 
-- If it is during the time representative of the row & before the proceeding hour, the input fields
-background color is red.
+                - If it is during the time representative of the row & before the proceeding hour, the input fields
+                background color is red.
 
-- If it is after the time representative of the row, the input fields background color is gray.
+                - If it is after the time representative of the row, the input fields background color is gray.
 
-* If the user desires to close the window, but also wishes to maintain the existence of
-information left in the input field, the user has the option to save the information
-by simply pressing the lock button at the end of the row. They can then refresh/close the window & comeback to the website without information disappearing from the input field.
+        * If the user desires to close the window, but also wishes to maintain the existence of
+        information left in the input field, the user has the option to save the information
+        by simply pressing the save button at the end of the row. They can then refresh/close the window & comeback to the website without information disappearing from the input field.
 
 ## Conclusion
 
